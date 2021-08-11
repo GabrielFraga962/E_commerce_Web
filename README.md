@@ -8,6 +8,6 @@ Repositório conterá a aplicação de um E-commerce em React.JS
 
 ## Estw projeto foi desenvolvido com as seguintes ferramentas: 🛠️
 
--
+
 
 
